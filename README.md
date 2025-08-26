@@ -3,6 +3,7 @@
 DoReMi is a single-player audio-based game developed on the DE1-SoC FPGA board. The player controls a musical note by singing different pitches (Do, Re, Mi, Fa, So, La, Ti) to surpass obstacles rendered on the screen. The game integrates real-tme VGA graphics rendering with audio signal processing to create an interactive game where audio input directly controls gameplay. 
 
 ## Game Overview
+![Game Title Screen](title_screen.jpeg)
 
 ## How It Works
 - The game starts when the user presses KEY0, signalling the transition from the title screen to the game screen.
